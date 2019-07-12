@@ -1,8 +1,8 @@
-###Robot Army
+### Robot Army
 Demo IoT project for showing how we can use a Bluetooth connected device(MiP Robot) from a web interface
 with [CylonJS](https://cylonjs.com/)
 
-####Installation
+#### Installation
 *Ubuntu*
 `sudo apt-get install libbluetooth-dev`
 `npm install -g cylon-ble`
